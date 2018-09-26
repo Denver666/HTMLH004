@@ -1,0 +1,28 @@
+body.geel {
+    padding: 20px;
+    background-color: #ffff66;
+}
+
+header.rood {
+    margin-bottom: 30px;
+    background-color: #ff6666;
+}
+
+section.groen {
+    border: 1px solid black;
+    border-collapse: collapse ;
+    background-color: #66ff66;
+    margin-bottom: 30px;
+}
+
+footer.zwart {
+    color: white;
+    padding: 20px;
+    background-color: black;
+}
+
+div.wrapper {
+    width: 960px;
+    height: 720px;
+    margin: auto;
+}
